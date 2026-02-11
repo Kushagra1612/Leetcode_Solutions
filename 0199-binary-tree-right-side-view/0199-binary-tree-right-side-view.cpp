@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-void preorder(TreeNode* root, int level, vector<int> result){
+void preorder(TreeNode* root, int level, vector<int>&result){
     if(root==NULL){
         return;
     }
