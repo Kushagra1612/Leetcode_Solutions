@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
+| [0198-house-robber](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
