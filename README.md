@@ -14,6 +14,7 @@
 | [0062-unique-paths](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0063-unique-paths-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0120-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
