@@ -19,6 +19,7 @@
 | [0213-house-robber-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -56,6 +58,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
