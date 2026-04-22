@@ -140,4 +140,5 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 <!---LeetCode Topics End-->
