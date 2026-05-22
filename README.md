@@ -62,6 +62,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -106,6 +107,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -143,4 +145,8 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 <!---LeetCode Topics End-->
