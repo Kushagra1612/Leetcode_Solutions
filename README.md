@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -35,6 +36,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -151,4 +153,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
