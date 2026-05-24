@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0063-unique-paths-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -77,6 +78,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
@@ -158,4 +160,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
