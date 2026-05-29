@@ -54,6 +54,7 @@
 | [0016-3sum-closest](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0120-triangle/) | Medium |
@@ -123,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -139,6 +141,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -176,6 +179,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
