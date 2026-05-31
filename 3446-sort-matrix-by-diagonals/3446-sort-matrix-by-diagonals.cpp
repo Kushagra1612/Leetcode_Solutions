@@ -1,40 +1,32 @@
 class Solution {
 public:
-int n;
-    void sortdiagonal(int r,int c,vector<vector<int>>& grid,bool asc){
-        vector<int> vec;
-        int i=r;
-        int j=c;
-
-        while(i<n && j<n){
-            vec.push_back(grid[i][j]);
-            i++;
-            j++;
-        }
-        if(asc){
-            sort(vec.begin(),vec.end());
-        }
-        else{
-            sort(vec.rbegin(),vec.rend());
-        }
-        i=r;
-        j=c;
-        for(int&val :vec){
-            grid[i][j]=val;
-        i++;
-        j++;
-        
-        }
-    }
     vector<vector<int>> sortMatrix(vector<vector<int>>& grid) {
-         n=grid.size();
-
-        for(int row=0;row<n;row++){
-            sortdiagonal(row,0,grid,false);
+        int n = grid.size();
+        unordered_map<int, vector<int>> mp;
+        
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                int diag = i - j;
+                mp[diag].push_back(grid[i][j]);
+            }
         }
-        for(int col=1;col<n;col++){
-            sortdiagonal(0,col,grid,true);
+        
+        for (auto& it : mp) {
+            if (it.first >= 0) {
+                sort(it.second.begin(), it.second.end());
+            } else {
+                sort(it.second.rbegin(), it.second.rend());
+            }
         }
+        
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                int diag = i - j;
+                grid[i][j] = mp[diag].back();
+                mp[diag].pop_back();
+            }
+        }
+        
         return grid;
     }
 };
