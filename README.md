@@ -69,6 +69,7 @@
 | [0213-house-robber-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
+| [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0518-coin-change-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -106,6 +107,7 @@
 | [0048-rotate-image](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -145,6 +147,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1006-clumsy-factorial](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
