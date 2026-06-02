@@ -78,6 +78,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -141,6 +142,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -176,6 +178,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@
 | [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 ## Stack
