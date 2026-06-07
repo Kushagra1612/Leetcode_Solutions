@@ -9,6 +9,7 @@
 | [0062-unique-paths](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1006-clumsy-factorial](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -72,6 +73,7 @@
 | [0494-target-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0518-coin-change-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -182,6 +184,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -208,6 +211,7 @@
 | [0016-3sum-closest](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
