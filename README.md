@@ -82,6 +82,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -149,6 +150,7 @@
 | [0001-two-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -230,4 +232,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
