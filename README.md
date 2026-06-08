@@ -83,6 +83,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -109,6 +110,7 @@
 | [0031-next-permutation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
@@ -165,6 +167,7 @@
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1006-clumsy-factorial](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## String
