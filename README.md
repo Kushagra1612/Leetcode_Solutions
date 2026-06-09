@@ -69,6 +69,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
@@ -194,6 +195,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
