@@ -82,6 +82,7 @@
 | [0645-set-mismatch](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0724-find-pivot-index](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
@@ -131,6 +132,7 @@
 | [0063-unique-paths-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
