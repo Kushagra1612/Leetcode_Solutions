@@ -113,6 +113,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +194,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
