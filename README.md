@@ -36,6 +36,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -88,6 +89,7 @@
 | [0724-find-pivot-index](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0835-image-overlap/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
@@ -304,4 +306,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
