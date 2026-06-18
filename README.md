@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -64,6 +65,7 @@
 | [0031-next-permutation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0036-valid-sudoku](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0057-insert-interval](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0057-insert-interval/) | Medium |
@@ -231,6 +233,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
