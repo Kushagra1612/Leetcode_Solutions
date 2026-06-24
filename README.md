@@ -200,6 +200,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -232,6 +233,7 @@
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
