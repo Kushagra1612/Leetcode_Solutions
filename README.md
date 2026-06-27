@@ -117,6 +117,7 @@
 | [2906-construct-product-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
@@ -186,6 +187,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Hash Table
@@ -207,6 +209,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
