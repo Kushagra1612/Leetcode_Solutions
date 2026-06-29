@@ -242,6 +242,7 @@
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1544-make-the-string-great](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -319,6 +320,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [1006-clumsy-factorial](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
+| [1544-make-the-string-great](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
