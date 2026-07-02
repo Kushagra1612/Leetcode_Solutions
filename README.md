@@ -204,6 +204,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0645-set-mismatch](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0859-buddy-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -243,6 +244,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0859-buddy-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
