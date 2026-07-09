@@ -224,6 +224,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
@@ -272,6 +273,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
@@ -314,6 +316,7 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
