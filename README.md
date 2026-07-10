@@ -14,6 +14,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1006-clumsy-factorial](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -268,6 +269,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1544-make-the-string-great](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
