@@ -5,15 +5,15 @@ public:
         int n=nums.size();
         int actual_sum=n*(n+1)/2;
         int array_sum=0;
-        int unique_sum=0;
+        int duplicate_sum=0;
         for(int num:nums){
             array_sum +=num;
         }
         for(int num:s){
-            unique_sum +=num;
+            duplicate_sum +=num;
         }
-        int missing=actual_sum - unique_sum;
-        int duplicate=array_sum - unique_sum;
+        int missing=actual_sum-duplicate_sum;
+        int duplicate=array_sum-duplicate_sum;
 
         return{duplicate,missing};
     }
