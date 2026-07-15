@@ -21,6 +21,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -432,4 +433,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
