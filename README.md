@@ -25,6 +25,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@
 | [2938-separate-black-and-white-balls](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +259,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +363,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,4 +439,5 @@
 | ------- | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
