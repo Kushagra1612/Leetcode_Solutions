@@ -83,6 +83,7 @@
 | [0063-unique-paths-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0120-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -302,6 +303,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -399,6 +401,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0645-set-mismatch](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
