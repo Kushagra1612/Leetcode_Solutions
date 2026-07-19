@@ -280,6 +280,7 @@
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0859-buddy-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -317,6 +318,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -375,12 +377,14 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [1006-clumsy-factorial](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
