@@ -78,6 +78,7 @@
 | [0016-3sum-closest](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -406,6 +407,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
