@@ -186,6 +186,7 @@
 | [0031-next-permutation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -313,6 +314,7 @@
 | [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
+| [0125-valid-palindrome](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0443-string-compression/) | Medium |
