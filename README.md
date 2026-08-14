@@ -308,6 +308,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0038-count-and-say](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0043-multiply-strings/) | Medium |
