@@ -48,6 +48,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0338-counting-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
@@ -465,6 +466,7 @@
 | [0078-subsets](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
