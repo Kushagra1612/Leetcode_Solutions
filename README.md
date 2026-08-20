@@ -465,6 +465,7 @@
 | [0067-add-binary](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -476,6 +477,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
