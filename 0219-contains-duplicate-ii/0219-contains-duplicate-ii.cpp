@@ -2,18 +2,17 @@
 using namespace std;
 class Solution {
 public:
-    bool containsNearbyDuplicate(vector<int>& nums, int k) {
-        unordered_map<int,int> mp;
-        for(int i=0;i<nums.size();++i){
-            int curr=nums[i];
-
-            if(mp.count(curr)){
-                if(i-mp[curr]<=k){
+   bool containsNearbyDuplicate(vector<int>& nums, int k) {
+    unordered_map<int, int> last;
+    for (int i = 0; i < nums.size(); i++) {
+        if (last.count(nums[i])) {
+            int dist = i - last[nums[i]];
+            if (dist <= k) {
                 return true;
-                }
             }
-            mp[curr]=i;
         }
-        return false;
+        last[nums[i]] = i;
     }
+    return false;
+}
 };
