@@ -58,6 +58,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -130,6 +131,7 @@
 | [0706-design-hashmap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0724-find-pivot-index](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0835-image-overlap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
@@ -275,6 +277,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0645-set-mismatch](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0706-design-hashmap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0859-buddy-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
@@ -335,6 +338,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0859-buddy-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -426,6 +430,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -460,6 +465,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -518,6 +524,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
