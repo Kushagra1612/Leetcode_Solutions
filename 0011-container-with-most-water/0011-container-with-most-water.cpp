@@ -8,15 +8,14 @@ public:
             int w=j-i;
             int h=min(height[i],height[j]);
             int area=w*h;
-
             maxWater=max(maxWater,area);
-
-            if(height[i]>height[j]){
-                j--;
-            }
-            else{
-                i++;
-            }
+        
+        if(height[i]>height[j]){
+            j--;
+        }
+        else{
+            i++;
+        }
         }
         return maxWater;
     }
