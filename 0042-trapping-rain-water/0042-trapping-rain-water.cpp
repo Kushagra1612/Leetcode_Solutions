@@ -1,35 +1,28 @@
 class Solution {
 public:
-
- vector<int> getLeftMaxArray(vector<int>& height,int &n){
-        vector<int> LeftMax(n);
-        LeftMax[0]=height[0];
-        for(int i=1;i<n;i++){
-            LeftMax[i]=max(LeftMax[i-1],height[i]);
-        }
-        return LeftMax;
-    }
-    vector<int> getRightMaxArray(vector<int>& height,int &n){
-        vector<int> rightMax(n);
-        rightMax[n-1]=height[n-1];
-        for(int i=n-2;i>=0;i--){
-            rightMax[i]=max(rightMax[i+1],height[i]);
-        }
-        return rightMax;
-    }
     int trap(vector<int>& height) {
-        int n=height.size();
+        int left=0,right=height.size()-1;
+        int leftMax=0,rightMax=0;
+        int totalWater=0;
 
-        vector<int> leftMax=getLeftMaxArray(height,n);
-        vector<int> rightMax=getRightMaxArray(height,n);
-
-        int sum=0;
-
-        for(int i=0;i<n;i++){
-            int h=min(leftMax[i],rightMax[i]) -height[i];
-
-            sum+=h;
+        while(left<right){
+            if(height[left] < height[right]){
+                if(height[left]>=leftMax){
+                    leftMax=height[left];
+                }else{
+                    totalWater +=leftMax-height[left];
+                }
+                left++;
+            }else{
+                if(height[right] >=rightMax){
+                    rightMax = height[right];
+                }
+                else{
+                    totalWater +=rightMax-height[right];
+                }
+                right--;
+            }
         }
-        return sum;
+        return totalWater;
     }
 };
