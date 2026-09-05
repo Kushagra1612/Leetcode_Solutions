@@ -61,6 +61,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1014-best-sightseeing-pair](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -145,6 +146,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
+| [1014-best-sightseeing-pair](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
