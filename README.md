@@ -212,6 +212,7 @@
 | [0283-move-zeroes](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0443-string-compression/) | Medium |
+| [0567-permutation-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -291,6 +292,7 @@
 | [0496-next-greater-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0706-design-hashmap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -355,6 +357,7 @@
 | [0443-string-compression](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0520-detect-capital/) | Easy |
+| [0567-permutation-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0859-buddy-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0859-buddy-strings/) | Easy |
@@ -501,6 +504,7 @@
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
