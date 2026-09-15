@@ -173,6 +173,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -309,6 +310,7 @@
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -506,6 +508,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
