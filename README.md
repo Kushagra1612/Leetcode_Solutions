@@ -278,6 +278,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0036-valid-sudoku](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
@@ -343,6 +344,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0038-count-and-say](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0038-count-and-say/) | Medium |
@@ -504,6 +506,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
