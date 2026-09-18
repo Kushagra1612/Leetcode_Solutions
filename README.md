@@ -176,6 +176,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -412,6 +413,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -466,6 +468,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
