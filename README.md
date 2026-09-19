@@ -148,6 +148,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -263,6 +264,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2256-minimum-average-difference](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2256-minimum-average-difference/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -500,6 +502,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -517,6 +520,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Bit Manipulation
