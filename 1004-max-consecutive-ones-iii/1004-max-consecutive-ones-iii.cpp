@@ -1,26 +1,22 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-   
     int longestOnes(vector<int>& nums, int k) {
+        int left=0;
+        int zeroCount=0;
+        int maxLen=0;
 
-        int left = 0;
-        int zerocount = 0;
-        int maxlen = 0;
-        for (int right = 0; right < nums.size(); right++) {
-            if (nums[right] == 0) {
-                zerocount++;
+        for(int right=0;right<nums.size();right++){
+            if(nums[right]==0){
+                zeroCount++;
             }
-            if (zerocount > k) {
-                if (nums[left] == 0) {
-                    zerocount--;
-                }
-                left++; 
+        while(zeroCount>k){
+            if(nums[left]==0){
+                zeroCount--;
             }
-            maxlen = max(maxlen, right - left + 1);
+            left++;
         }
-        return maxlen;
+        maxLen=max(maxLen,right-left+1);
+        }
+        return maxLen;
     }
 };
