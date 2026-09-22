@@ -38,6 +38,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
@@ -201,6 +202,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0016-3sum-closest/) | Medium |
@@ -355,6 +357,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0038-count-and-say](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0038-count-and-say/) | Medium |
@@ -606,4 +609,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
