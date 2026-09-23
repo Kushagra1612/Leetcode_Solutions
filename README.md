@@ -438,6 +438,7 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0584-find-customer-referee](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
