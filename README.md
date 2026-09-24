@@ -446,6 +446,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
