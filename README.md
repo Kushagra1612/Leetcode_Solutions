@@ -399,6 +399,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1544-make-the-string-great](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -529,6 +530,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -656,4 +658,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
