@@ -376,6 +376,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0020-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -527,6 +528,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -662,6 +664,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Floyd's Cycle Finding Algorithm
