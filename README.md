@@ -232,6 +232,7 @@
 | [0443-string-compression](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -489,6 +490,7 @@
 | [0234-palindrome-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0706-design-hashmap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Sorting
