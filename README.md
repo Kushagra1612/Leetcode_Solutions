@@ -396,6 +396,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0859-buddy-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -534,6 +535,7 @@
 | [0496-next-greater-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1006-clumsy-factorial](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1544-make-the-string-great/) | Easy |
