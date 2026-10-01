@@ -367,6 +367,7 @@
 | [2069-walking-robot-simulation-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -415,6 +416,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2938-separate-black-and-white-balls/) | Medium |
@@ -547,6 +549,7 @@
 | [1544-make-the-string-great](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
