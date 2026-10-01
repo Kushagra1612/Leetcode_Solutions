@@ -143,6 +143,7 @@
 | [0518-coin-change-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -259,6 +260,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0835-image-overlap/) | Medium |
@@ -365,6 +367,7 @@
 | [0054-spiral-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0832-flipping-an-image/) | Easy |
