@@ -152,6 +152,7 @@
 | [0766-toeplitz-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0835-image-overlap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0835-image-overlap/) | Medium |
+| [0867-transpose-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -257,6 +258,7 @@
 | [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0835-image-overlap/) | Medium |
+| [0867-transpose-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -360,6 +362,7 @@
 | [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0867-transpose-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [1006-clumsy-factorial](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
