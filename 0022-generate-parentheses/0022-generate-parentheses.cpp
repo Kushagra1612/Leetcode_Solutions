@@ -1,24 +1,22 @@
+
 class Solution {
 public:
-    std::vector<std::string> generateParenthesis(int n) {
-        std::vector<std::string> result;
-        backtrack(n, 0, 0, "", result);
-        return result;
+    vector<string> generateParenthesis(int n) {
+        vector<string> ans;
+        generate(n, 0, 0, "", ans);
+        return ans;
     }
 
-private:
-    void backtrack(int n, int openCount, int closeCount, std::string currentString, std::vector<std::string>& result) {
-        if (openCount == n && closeCount == n) {
-            result.push_back(currentString);
+    void generate(int n, int open, int close, string s, vector<string>& ans) {
+        if (s.size() == 2 * n) {
+            ans.push_back(s);
             return;
         }
 
-        if (openCount < n) {
-            backtrack(n, openCount + 1, closeCount, currentString + '(', result);
-        }
+        if (open < n)
+            generate(n, open + 1, close, s + '(', ans);
 
-        if (closeCount < openCount) {
-            backtrack(n, openCount, closeCount + 1, currentString + ')', result);
-        }
+        if (close < open)
+            generate(n, open, close + 1, s + ')', ans);
     }
 };
