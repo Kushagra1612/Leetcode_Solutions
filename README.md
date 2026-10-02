@@ -168,6 +168,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -267,6 +268,7 @@
 | [0867-transpose-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
