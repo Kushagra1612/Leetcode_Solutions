@@ -45,6 +45,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0062-unique-paths/) | Medium |
@@ -399,6 +400,7 @@
 | [0012-integer-to-roman](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -559,6 +561,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -705,6 +708,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Floyd's Cycle Finding Algorithm
