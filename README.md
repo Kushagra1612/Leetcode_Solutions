@@ -153,6 +153,7 @@
 | [0682-baseball-game](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0706-design-hashmap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0724-find-pivot-index](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0832-flipping-an-image](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -570,6 +571,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1006-clumsy-factorial](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -585,6 +587,7 @@
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
