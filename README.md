@@ -16,6 +16,7 @@
 | [0202-happy-number](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0412-fizz-buzz](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -374,6 +375,7 @@
 | [0043-multiply-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0067-add-binary/) | Easy |
+| [0412-fizz-buzz](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -414,6 +416,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
