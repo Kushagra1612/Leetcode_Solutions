@@ -116,6 +116,7 @@
 | [0075-sort-colors](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -573,6 +574,7 @@
 | [0020-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -596,6 +598,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0456-132-pattern](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -748,4 +751,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0456-132-pattern/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
