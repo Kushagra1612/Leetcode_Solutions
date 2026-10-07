@@ -186,6 +186,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
@@ -588,6 +589,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
@@ -600,6 +602,7 @@
 | [0739-daily-temperatures](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
