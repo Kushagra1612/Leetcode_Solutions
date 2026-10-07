@@ -141,6 +141,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0456-132-pattern](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -575,6 +576,7 @@
 | [0227-basic-calculator-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0456-132-pattern](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -593,6 +595,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0456-132-pattern](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
@@ -604,6 +607,7 @@
 | [0035-search-insert-position](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0456-132-pattern](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -737,4 +741,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
