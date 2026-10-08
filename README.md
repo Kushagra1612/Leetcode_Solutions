@@ -431,6 +431,7 @@
 | [0856-score-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0859-buddy-strings](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -586,6 +587,7 @@
 | [0856-score-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1006-clumsy-factorial](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -733,6 +735,7 @@
 | [0022-generate-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Floyd's Cycle Finding Algorithm
