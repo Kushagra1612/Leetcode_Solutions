@@ -177,6 +177,7 @@
 | [1260-shift-2d-grid](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1306-jump-game-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -720,6 +721,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [1306-jump-game-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -771,4 +773,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->
