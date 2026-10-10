@@ -352,6 +352,7 @@
 | [0383-ransom-note](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -434,6 +435,7 @@
 | [0412-fizz-buzz](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0443-string-compression/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -526,6 +528,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0383-ransom-note/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -563,6 +566,7 @@
 | [0088-merge-sorted-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -708,6 +712,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0451-sort-characters-by-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1696-jump-game-vi](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1696-jump-game-vi/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -794,4 +799,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
