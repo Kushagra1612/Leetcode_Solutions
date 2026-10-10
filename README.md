@@ -75,6 +75,7 @@
 | [1143-longest-common-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1696-jump-game-vi](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1696-jump-game-vi/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -186,6 +187,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1696-jump-game-vi](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1696-jump-game-vi/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -683,11 +685,13 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1696-jump-game-vi](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1696-jump-game-vi/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1696-jump-game-vi](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1696-jump-game-vi/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -695,6 +699,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1696-jump-game-vi](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1696-jump-game-vi/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
