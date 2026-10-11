@@ -129,6 +129,7 @@
 | [0136-single-number](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0164-maximum-gap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -570,6 +571,7 @@
 | [0056-merge-intervals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -811,6 +813,15 @@
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
