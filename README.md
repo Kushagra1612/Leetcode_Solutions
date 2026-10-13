@@ -146,6 +146,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0427-construct-quad-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0456-132-pattern](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0456-132-pattern/) | Medium |
@@ -284,6 +285,7 @@
 | [0064-minimum-path-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
+| [0427-construct-quad-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -658,6 +660,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0427-construct-quad-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -703,6 +706,7 @@
 | [0169-majority-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0427-construct-quad-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Queue
