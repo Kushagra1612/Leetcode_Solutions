@@ -228,6 +228,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -388,6 +389,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -601,6 +603,7 @@
 | [2706-buy-two-chocolates](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
