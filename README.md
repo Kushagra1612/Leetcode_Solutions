@@ -256,6 +256,7 @@
 | [0086-partition-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0148-sort-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -563,6 +564,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0148-sort-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -580,6 +582,7 @@
 | [0056-merge-intervals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -706,6 +709,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0148-sort-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0191-number-of-1-bits/) | Easy |
@@ -755,6 +759,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
