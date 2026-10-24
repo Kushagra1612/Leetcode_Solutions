@@ -174,6 +174,7 @@
 | [0832-flipping-an-image](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -668,6 +669,7 @@
 | [0456-132-pattern](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
