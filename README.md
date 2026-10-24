@@ -31,6 +31,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -477,6 +478,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2938-separate-black-and-white-balls/) | Medium |
