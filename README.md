@@ -119,6 +119,7 @@
 | [0063-unique-paths-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
@@ -292,6 +293,7 @@
 | [0063-unique-paths-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
 | [0427-construct-quad-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0498-diagonal-traverse/) | Medium |
@@ -664,6 +666,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
