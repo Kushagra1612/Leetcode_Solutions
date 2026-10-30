@@ -110,6 +110,7 @@
 | [0041-first-missing-positive](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -503,6 +504,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
 | [0494-target-sum](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
