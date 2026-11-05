@@ -195,6 +195,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -280,6 +281,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0832-flipping-an-image](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -612,6 +614,7 @@
 | [1288-remove-covered-intervals](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -680,6 +683,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
