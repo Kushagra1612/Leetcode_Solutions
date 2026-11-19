@@ -692,6 +692,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0427-construct-quad-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
@@ -699,6 +700,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -799,6 +801,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1306-jump-game-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
 ## Union-Find
@@ -858,6 +861,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1306-jump-game-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
