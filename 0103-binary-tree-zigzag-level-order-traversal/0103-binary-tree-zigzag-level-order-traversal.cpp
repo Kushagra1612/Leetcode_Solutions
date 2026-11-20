@@ -1,45 +1,24 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>> result;
-        if(root==NULL){
-            return result;
-        }
-        queue <TreeNode*> nodesQueue;
-        nodesQueue.push(root);
-        bool lefttoright=true;
+   vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+    vector<deque<int>> result;
+    dfs(root, 0, result);
+    vector<vector<int>> ans;
+    for (auto& d : result) ans.push_back(vector<int>(d.begin(), d.end()));
+    return ans;
+}
 
-        while(!nodesQueue.empty()){
-            int size=nodesQueue.size();
-            vector <int> row(size);
-            for(int i=0;i<size;i++){
-                TreeNode* node=nodesQueue.front();
-                nodesQueue.pop();
-
-                int index=(lefttoright) ? i :(size-1-i);
-
-                row[index]=node->val;
-                if(node->left){
-                    nodesQueue.push(node->left);
-                }
-                if(node->right){
-                    nodesQueue.push(node->right);
-                }
-            }
-            lefttoright=!lefttoright;
-            result.push_back(row);
-        }
-        return result;
+void dfs(TreeNode* node, int depth, vector<deque<int>>& result) {
+    if (!node) return;
+    if (depth == (int)result.size()) {
+        result.push_back({});
     }
+    if (depth % 2 == 0) {
+        result[depth].push_back(node->val);
+    } else {
+        result[depth].push_front(node->val);
+    }
+    dfs(node->left, depth + 1, result);
+    dfs(node->right, depth + 1, result);
+}
 };
