@@ -692,6 +692,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -702,6 +703,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -807,6 +809,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1306-jump-game-iii](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/1306-jump-game-iii/) | Medium |
@@ -887,5 +890,6 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kushagra1612/Leetcode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
